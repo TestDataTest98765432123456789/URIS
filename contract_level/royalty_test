@@ -1,0 +1,8 @@
+{
+  "name": "Funny Collection",
+  "description": "#Description\nThis is just a **funny collection** for `testing`, for *fun*!",
+  "image": "",
+  "external_link": "https://www.google.com/search?q=funny",
+  "seller_fee_basis_points": 1000, # Indicates a 1% seller fee.
+  "fee_recipient": "0xAf3DB8E05F7f66Ffd2a33Ae1FB9C423E7b238fF0" # Where seller fees will be paid to.
+}
