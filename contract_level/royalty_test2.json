@@ -1,0 +1,8 @@
+{
+  "name": "Funny Collection",
+  "description": "#Description\nThis is just a **funny collection** for `testing`, for *fun*!",
+  "image": "https://raw.githubusercontent.com/TestDataTest98765432123456789/URIS/main/imgs/cat.png",
+  "external_link": "https://www.google.com/search?q=funny",
+  "seller_fee_basis_points": "1000",
+  "fee_recipient": "0xAf3DB8E05F7f66Ffd2a33Ae1FB9C423E7b238fF0"
+}
